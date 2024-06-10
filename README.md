@@ -1,0 +1,2 @@
+## Testing models using the MNIST datasets
+In this code file, we test a variety of models on the MNIST dataset (which contains handwritten hexadecimal values). We test models such as K-nearest neighbours, random forest classifiers, feed-forward neural networks, and convolutional neural networks.
